@@ -14,12 +14,12 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to Crown Smp: http://localhost:${port}`);
-  console.log(`🔗 Powered By Mr_MuditGamerX`);
+  console.log(`🔗 Listening to Glaxy Store: http://localhost:${port}`);
+  console.log(`🔗 Powered By Nishika`);
 });
 
 
-const statusMessages = ["Watching Crown Smp","Playing Minecraft"];
+const statusMessages = ["Watching Galaxy Store","100% LEGIT STORE"];
 
 
 let currentIndex = 0;
